@@ -6,7 +6,7 @@ Release: 6.1
 Summary: Annotations for use in compiling OSGi bundles
 
 License: ASL 2.0
-URL:     http://www.osgi.org/
+URL:     https://www.osgi.org/
 # Upstream project is behind an account registration system with no anonymous
 # read access, so we download the source from maven central instead
 Source0: http://repo1.maven.org/maven2/org/osgi/osgi.annotation/%{version}/osgi.annotation-%{version}-sources.jar
