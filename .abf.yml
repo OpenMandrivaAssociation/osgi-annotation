@@ -1,4 +1,7 @@
+removed_sources:
+  osgi.annotation-6.0.0.pom: 5b1839a024e1cfb735235c649236bbaf9b525b4d
+  osgi.annotation-6.0.0-sources.jar: 09b256fd1357d5f8cb85e35f6c9ef460ce42cb16
 sources:
-  osgi.annotation-6.0.0.pom  5b1839a024e1cfb735235c649236bbaf9b525b4d
-  osgi.annotation-6.0.0-sources.jar  09b256fd1357d5f8cb85e35f6c9ef460ce42cb16
-
+  osgi.annotation-8.1.0-sources.jar: b9c42f18e5941aae2b7a5f128e73034220898876
+  osgi-annotation-8.1.0-LICENSE: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+  osgi-annotation-8.1.0-NOTICE: e7607f43c40dc4b3271111c14e1ee1369a0e801b
